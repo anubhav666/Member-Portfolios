@@ -1,4 +1,4 @@
-# Memeber-Portfolios
+# Member Portfolios
 List of All the Intern Portfolios of Developer's Club Kalyani Government Engineering College.  
 
 1. [Anindya Kanti Mitra](https://github.com/akm15machine/) - https://akm15machine.github.io
